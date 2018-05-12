@@ -1,0 +1,31 @@
+_repo: In-to-the-Yukon_42611
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42611-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Edwards, William Seymour
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '41491'
+    url: http://www.gutenberg.org/2009/agents/41491
+description: Author's letters describing his journeyings and experiences during a
+  two month travel into the north and along the Pacific coast in 1903.
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42611'
+  lccn: '05024240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Yukon -- Description and travel'
+- !lcsh 'Pacific Coast (North America) -- Description and travel'
+- !lcsh 'Overland journeys to the Pacific'
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries'
+title: In to the Yukon
+url: http://www.gutenberg.org/ebooks/42611
